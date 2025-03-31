@@ -1,0 +1,4 @@
+npx create-next-app portfolio-gen
+cd portfolio-gen
+npm install axios tailwindcss
+npx tailwindcss init -p
